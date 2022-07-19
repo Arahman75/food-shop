@@ -70,3 +70,49 @@ padding-top: 100px;
 margin-right: 20px;
 
 }
+.title-aling{
+    text-align: center;
+    width: 500px;
+  
+   margin: auto;
+}
+h4, p{
+    color: gray;
+}
+.cart-section{
+    display: flex;
+    width: 90%;
+    margin-left: 10%;
+    margin-bottom: 100px;
+}
+.main-cart{
+    width: 25%;
+    margin-left: 1%;
+    margin-right: 1%;
+    box-shadow: 10px 10px 20px lightgrey;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+.main-cart img{
+    width: 100%;
+}
+.cart-bottom{
+    display: flex;
+    width: 80%;
+    margin: 0 10%;
+    box-shadow:10px 10px 20px lightgrey ;
+    margin-bottom: 100px;
+    border-radius: 10px;
+   
+}
+.cart-bottom div{
+ margin-left: 140px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(14, 11, 11);
+    color: gray;
+    height: 200px;
+    padding: 20px 0;
+}
